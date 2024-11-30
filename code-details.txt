@@ -1,0 +1,12 @@
+---Files in Github---
+(frontend)
+Front End code : React js (18.1.0) 
+		 Node version (20.12.2)
+
+(BackEndLC)
+Back end (API's) : Node js  (18.20.4)
+		   Mongoose (7.4.0)
+		   Connected to MongoDB
+
+(LcMobile)
+Mobile App : Flutter (3.0.2)
